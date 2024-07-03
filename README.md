@@ -1,4 +1,5 @@
-# End-to-End-Chest-Cancer-Classification-using-MLflow-DVC
+# Automated-Chest-Cancer-Detection-with-MLflow-and-DVC
+
 
 
 ## Workflows
